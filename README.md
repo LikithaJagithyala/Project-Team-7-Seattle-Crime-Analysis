@@ -1,4 +1,9 @@
-# Seattle-Crime-Analysis by Project Team 7
+# Seattle-Crime-Analysis 
+
+Submitted by: <br>
+Project Team 7<br>
+Rohini Kolli [rohini.k@northeast.edu]<br>
+Likitha Jagithyala [jagithyala.l@northeastern.edu] <br>
 
 ## Abstract
 Crime prediction and prevention have become critical components in urban safety management. With Seattle being one of the leading urban places attracting newer residents due to its IT developments, It becomes quite difficult to understand the safety around this city.  This project focuses on applying machine learning techniques to model and forecast crime analysis in Seattle, Washington. Leveraging a rich dataset spanning from 2008, we explore various predictive models to understand the underlying patterns and dynamics of criminal activities. The aim is to develop accurate and reliable predictions that can assist residents to make better choices for their future homes. 
